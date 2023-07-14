@@ -19,7 +19,7 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
   [![Linkedin Badge](https://img.shields.io/badge/-Cherifa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bochra-soltani/)](https://www.linkedin.com/in/bochra-soltani/)
   [![Medium Badge](https://img.shields.io/badge/-@soltani_bochra-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@soltani_bochra/)](https://medium.com/@soltani_bochra)
   [![Gmail Badge](https://img.shields.io/badge/-soltanibochra04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soltanibochra04@gmail.com)](mailto:soltanibochra04@gmail.com)
-  [![Duolingo Badge](https://img.shields.io/badge/-Cherifa-darkgreen?style=flat-square&label&logo=Duolingo&link=https://www.duolingo.com/profile/CBS1902)](https://www.behance.net/syrashidhttps://www.duolingo.com/profile/CBS1902)
+  [![Duolingo Badge](https://img.shields.io/badge/-Cherifa-darkgreen?style=flat-square&label&logo=Duolingo&link=https://www.duolingo.com/profile/CBS1902)](https://www.duolingo.com/profile/CBS1902)
 </div>
 <br>
 

@@ -30,7 +30,7 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
    def initialize
      @name = 'Cherifa Bochra Soltani'
      @age = 22
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @work = [ 'Web Dev', 'IT', 'Pentest', 'Coding' ]
      @education = [ 'Computer Engineering BS', 'Cybersecurity MS' ]
      @hobbies = [ 'Reading', 'writing', 'Football','Video Games' ,'Astro',
      'Series/Movies', 'Piano','Stargazing','Judo','Calligraphys','Chess',

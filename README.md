@@ -98,7 +98,7 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
 
 
 ### Quick Facts about me
-📔Favorite Book: [The atomic habits](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
+📔Favorite Book: [The atomic habits](https://docs.google.com/viewer?a=v&pid=sites&srcid=cXdpa2xhYnMubmV0fGZpbGVzfGd4OjcxYjNjMGZmZmUyYjcwZWI)
 
 🎧Favorite Podcast: [The Take](https://www.aljazeera.com/audio/podcasts/the-take)
 

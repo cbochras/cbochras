@@ -32,9 +32,9 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
      @age = 22
      @work = [ 'Web Dev', 'IT', 'Pentest', 'Coding' ]
      @education = [ 'Computer Engineering BS', 'Cybersecurity MS' ]
-     @hobbies = [ 'Reading', 'writing', 'Football','Video Games' ,'Astro',
-     'Series/Movies', 'Piano','Stargazing','Judo','Calligraphys','Chess',
-     'Social Life','writing','Violin','Psychology','I','Embroidery','Designing']
+     @hobbies = [ 'Reading', 'Writing', 'Football','Video Games' ,'Astro',
+     'Series/Movies', 'Piano','Stargazing','Judo','Calligraphy','Chess',
+     'Social Life','Violin','Psychology','IT','Embroidery','Designing']
    end
 
    def current_location
@@ -98,7 +98,8 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
 
 
 ### Quick Facts about me
-📔Favorite Book: [The atomic habits](https://docs.google.com/viewer?a=v&pid=sites&srcid=cXdpa2xhYnMubmV0fGZpbGVzfGd4OjcxYjNjMGZmZmUyYjcwZWI)
+📔Favorite Book: [The atomic habits](https://admin.microsoft.com/AdminPortal/Home#/partners/invitation/granularAdminRelationships/7b3ace9f-99f1-4dbc-b782-85a09730d28d-5a066151-9491-47f6-806b-56b92eeade29
+)
 
 🎧Favorite Podcast: [The Take](https://www.aljazeera.com/audio/podcasts/the-take)
 

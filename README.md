@@ -98,8 +98,7 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
 
 
 ### Quick Facts about me
-📔Favorite Book: [The atomic habits](https://admin.microsoft.com/AdminPortal/Home#/partners/invitation/granularAdminRelationships/7b3ace9f-99f1-4dbc-b782-85a09730d28d-5a066151-9491-47f6-806b-56b92eeade29
-)
+📔Favorite Book: [The atomic habits](https://1drv.ms/b/s!At4YNRNPWWRV-UP0_FRFYkYdiUP3?e=ekGApI)
 
 🎧Favorite Podcast: [The Take](https://www.aljazeera.com/audio/podcasts/the-take)
 

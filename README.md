@@ -111,5 +111,5 @@ no bounds, and I thrive on the endless possibilities that come with embracing a 
 ☕Favorite Drink: [Coffee](https://www.buymeacoffee.com/cherifaBS)
 
 ### Other Stuffs
-  - :octocat: [My Resume](https://1drv.ms/b/s!At4YNRNPWWRV6CAfLiNH-ykWQQgZ?e=0aCBew)
+  - :octocat: [My Resume](https://1drv.ms/b/s!At4YNRNPWWRV-05A-6WQ1SiIKIvg?e=2ZjfrN)
 

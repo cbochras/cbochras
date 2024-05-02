@@ -3,13 +3,13 @@
 <p>
   <img align="right" alt="jpg" width="390px" height="550px" src="https://res.cloudinary.com/dnja5xwdg/image/upload/v1689276263/cutegirlcoding-removebg_l4pgpt.png" />
   <h3>Who Am I?</h3>
-  Defining who I am is like trying to catch a shooting star - elusive and ever-changing. I'm a dynamic individual who has been on a relentless pursuit of passions since a young age. 
-  Picture me as a multilingual wizard, weaving spells of code and technology. <br><br>
-  One day, I'm diving into the mesmerizing world of web development, crafting digital masterpieces that come alive on screens. 
-  The next day, I'm donning my hacker hat, exploring the hidden realms of pentesting, unraveling secrets and securing the digital frontier. And let's not forget my tryst with blockchain, where I bring decentralized dreams to life.<br><br>
+  I've always struggled to define who I am. It's like trying to catch a shooting star – elusive and ever-changing. I am a person who likes to do things that interest me and have been 
+  doing them since I was young. Picture me as a multilingual wizard, weaving spells of code and technology. <br><br>
+  Imagine me as a wizard who can weave spells of code and technology. 
+  One day, I'll be working on digital masterpieces that come to life on screens. The next day, I'll wear my hacker hat and explore the dark corners of testing, finding out secrets, 
+  and protecting the internet. I also tried blockchain, where I brought decentralized dreams to life.Ethical hacking and machine learning were the sparks that made me want to become 
+  both a computer engineer and a cyber engineer at the same time. But wait, there's more to come! I want to study quantum computing and get a PhD.<br><br>
 
-  Ethical hacking and machine learning were the sparks that ignited my technological soul, propelling me towards becoming a computer engineer and a cyber engineer all at once. But wait, that's not where the adventure ends! I have my sights set on a quantum leap, pursuing a PhD in mind-boggling quantum computing research. 
-<br><br> 
 
 _**Don't box me in or try to fit me into a single mold. I refuse to be confined to one field because I believe in having it all. My passions know 
 no bounds, and I thrive on the endless possibilities that come with embracing a diverse array of interests. So buckle up and join me on this exhilarating journey of exploration and innovation, where I prove that you can chase your dreams in every realm, all at the same time.**_

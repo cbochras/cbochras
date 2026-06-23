@@ -1,114 +1,65 @@
-<h1 align="center">👋 Heyoo,  It's ME </h1>
+# Hi, I'm Cherifa Bochra Soltani 👋
 
-<p>
-  <img align="right" alt="jpg" width="390px" height="550px" src="https://res.cloudinary.com/dnja5xwdg/image/upload/v1689276263/cutegirlcoding-removebg_l4pgpt.png" />
-  <h3>Who Am I?</h3>
-  I've always struggled to define who I am. It's like trying to catch a shooting star – elusive and ever-changing. I am a person who likes to do things that interest me and have been 
-  doing them since I was young. <br><br>
+**IT Support Engineer at Amazon | Systems & Infrastructure | AWS & PMP Certified**
 
-  One day, I'll be working on digitals that come to life on screens. The next day, I'll be working on Pentesting like a white hat hacker. I also worked on blockchain, machine learning and AI.
-  I am both a computer engineer and a cyber engineer at the same time. But wait, there's more to come! I want to study quantum computing and get a PhD in taht field :D.<br><br>
+I build reliable systems and automate the boring stuff. Currently focused on infrastructure monitoring, cloud architecture, and scripting solutions that eliminate recurring problems at scale.
 
+---
 
-_**Don't box me in or try to fit me into a single place. I refuse to be confined to one field because I believe in having it all. My passions know 
-no bounds, and I thrive on the endless possibilities that come with embracing a diverse array of interests. So please join me on this journey of exploration and innovation, where I prove that you can chase your dreams in every realm, all at the same time.**_
-</p> 
-<div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-Cherifa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bochra-soltani/)](https://www.linkedin.com/in/bochra-soltani/)
-  [![Medium Badge](https://img.shields.io/badge/-@soltani_bochra-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@soltani_bochra/)](https://medium.com/@soltani_bochra)
-  [![Gmail Badge](https://img.shields.io/badge/-soltanibochra04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soltanibochra04@gmail.com)](mailto:soltanibochra04@gmail.com)
-  [![Duolingo Badge](https://img.shields.io/badge/-Cherifa-darkgreen?style=flat-square&label&logo=Duolingo&link=https://www.duolingo.com/profile/cbochras)](https://www.duolingo.com/profile/cbochras)
-</div>
-<br>
+## 🔧 What I Work With
 
-<h3>How I'd define myself:</h3>
+**Infrastructure & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Cherifa Bochra Soltani'
-     @age = 22
-     @work = [ 'Web Dev', 'IT', 'Pentest', 'Coding' ]
-     @education = [ 'Computer Engineering BS', 'Cybersecurity MS' ]
-     @hobbies = [ 'Reading', 'Writing', 'Football','Video Games' ,'Astro',
-     'Series/Movies', 'Piano','Stargazing','Judo','Calligraphy','Chess',
-     'Social Life','Violin','Psychology','IT','Embroidery','Designing']
-   end
+**Scripting & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-   def current_location
-     ['Istanbul, Turkey ']
+**Networking & Security**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
-   def other_locations
-     ['SBA, Algeria']
-   end
+**Monitoring**
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 
- end
- ```
- 
-<br>
+---
 
-### What I always have with me
-<p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689185655/python_enbuma.png"
-  alt="python-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689186296/canva_qgqvbe.png" alt="canva-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689186843/mongodb_hdg8nz.png" alt="mongodb-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689190479/googleworkspace_p9g6po.png"
-  alt="googleworkspace-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30,w_30/v1689190951/M365_dqznvv.png"
-  alt="Microsoft356-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689191138/Visualstudio_code_wms4jr.png"
-  alt="visualstudio-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689191760/Duolingo_z5udt1.png" alt="duolingo-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" alt="twilio-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689192404/Authy_ijzom0.png" alt="Authy-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30/v1689192638/Google_Podcasts_v2wtux.png" alt="googlepodcast-logo">
-  <img src="https://res.cloudinary.com/dnja5xwdg/image/upload/c_scale,h_30,w_30/v1689198197/Tensorflow_rz7gir.png" alt="tensorflow-logo">
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+## 📌 Featured Projects
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Zabbix Monitoring System](link) | Infrastructure monitoring with proactive alerting via SNMP and agent-based checks | Zabbix, SNMP, scripting |
+| [Cisco Python Automation](link) | Network config parsing, interface change detection, and automated cleanup | Python |
+| [IPsec on Raspberry Pi](link) | Site-to-site VPN tunnel between Raspberry Pi (strongSwan) and Sophos firewall | strongSwan, IPsec |
+| [Self-hosted Algo VPN](link) | Privacy-focused VPN on AWS using Ansible | AWS, Ansible, Python |
+| [Uptime Kuma (Docker)](link) | Self-hosted uptime monitoring deployed on Fly.io | Docker, Fly.io |
+| [Power Automate Backup Flow](link) | Automated email-to-SharePoint backup retrieval | Power Automate, SharePoint |
 
+---
 
-</p>
+## 📜 Certifications
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+- 🏅 Project Management Professional (PMP) — PMI, 2025
+- ☁️ AWS Certified Cloud Practitioner — 2025
+- ☁️ AWS Well-Architected Proficient — 2025
+- 🔧 AZ-104: Azure Administrator — Microsoft, 2023
+- 🌐 CompTIA Network+ — 2022
+- 🔒 Junior Cybersecurity Analyst Path — Cisco, 2023
 
+---
 
-### Quick Facts about me
-📔Favorite Book: [The atomic habits](https://1drv.ms/b/s!At4YNRNPWWRV-UP0_FRFYkYdiUP3?e=ekGApI)
+## 🌍 Languages
 
-🎧Favorite Podcast: [The Take](https://www.aljazeera.com/audio/podcasts/the-take)
+Arabic · English · French · Turkish · Spanish · Korean · Russian
 
-🎼Favorite Piece of Music: [Kinderszenen, Op. 15:7. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG?si=ce7e584e6578407c)
+---
 
-⚽Favorite Football Team: [RMA](https://www.realmadrid.com/en)
+## 📫 Connect
 
-✋🏻Favorite Poem: [The Not Poem by Erin Hanson](https://lifeism.co/the-poetry-of-self-acceptance-the-not-poem-by-erin-hanson#the-not-poem-by-erin-hansonhttps://lifeism.co/the-poetry-of-self-acceptance-the-not-poem-by-erin-hanson#the-not-poem-by-erin-hanson)
-
-☕Favorite Drink: [Coffee](https://www.buymeacoffee.com/cherifaBS)
-
-### Other Stuffs
-  - :octocat: [My Resume](https://1drv.ms/b/c/5564594f133518de/EQroU8fZyZVHoYIniOoZHOQBSxZS7MSNbVuMxACE90X_fg?e=atTvLq)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bochra-soltani/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soltanibochra04@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@soltani_bochra)

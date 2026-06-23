@@ -28,18 +28,6 @@ I build reliable systems and automate the boring stuff. Currently focused on inf
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Zabbix Monitoring System](link) | Infrastructure monitoring with proactive alerting via SNMP and agent-based checks | Zabbix, SNMP, scripting |
-| [Cisco Python Automation](link) | Network config parsing, interface change detection, and automated cleanup | Python |
-| [IPsec on Raspberry Pi](link) | Site-to-site VPN tunnel between Raspberry Pi (strongSwan) and Sophos firewall | strongSwan, IPsec |
-| [Self-hosted Algo VPN](link) | Privacy-focused VPN on AWS using Ansible | AWS, Ansible, Python |
-| [Uptime Kuma (Docker)](link) | Self-hosted uptime monitoring deployed on Fly.io | Docker, Fly.io |
-| [Power Automate Backup Flow](link) | Automated email-to-SharePoint backup retrieval | Power Automate, SharePoint |
-
----
 
 ## 📜 Certifications
 
